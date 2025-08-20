@@ -15,7 +15,6 @@
     "@tailwindcss/postcss": "^4.1.11",
     "@tailwindcss/vite": "^4.1.11",
     "autoprefixer": "^10.4.21",
-    "core-js": "^3.45.0",
     "framer-motion": "^12.23.12",
     "lucide-react": "^0.518.0",
     "postcss": "^8.5.6",
