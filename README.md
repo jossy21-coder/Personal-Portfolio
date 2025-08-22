@@ -11,8 +11,6 @@ This portfolio showcases projects, skills, and contact information with **advanc
 
 🚀 Live Demo: [View Portfolio](https://natnaelmekuria.vercel.app)
 
----
-
 ## ✨ Features
 
 - 🎨 **Modern UI/UX** – Clean, minimal, and elegant design  
@@ -23,8 +21,6 @@ This portfolio showcases projects, skills, and contact information with **advanc
 - 📊 **Google Search Console** – Indexed and tracked for visibility  
 - ☁️ **Deployed on Vercel** – Fast and reliable hosting  
 
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/)  
@@ -32,8 +28,6 @@ This portfolio showcases projects, skills, and contact information with **advanc
 - **Email Service:** [EmailJS](https://www.emailjs.com/)  
 - **SEO Tools:** React Helmet / Meta tags, Google Console integration  
 - **Deployment:** [Vercel](https://vercel.com/)  
-
----
 
 ## 📂 Project Structure
 
@@ -49,8 +43,6 @@ This portfolio showcases projects, skills, and contact information with **advanc
 ├── package.json
 
 ````
-
----
 
 ## ⚙️ Getting Started
 
@@ -80,8 +72,6 @@ Visit: `http://localhost:5173`
 npm run build
 ```
 
---
-
 ## 🖼️ Preview
 <img width="1365" height="719" alt="Screenshot 2025-08-22 100244" src="https://github.com/user-attachments/assets/7d0cf56f-8a0f-49fc-804d-2542b8e8e423" />
 <img width="1365" height="721" alt="Screenshot 2025-08-22 101336" src="https://github.com/user-attachments/assets/228ff792-8343-4383-ba90-76cc9a2d5c28" />
@@ -96,7 +86,5 @@ npm run build
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 💡 *Built with React, TailwindCSS, and lots of passion for modern web development.*
