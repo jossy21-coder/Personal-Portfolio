@@ -100,6 +100,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 💡 *Built with React, TailwindCSS, and lots of passion for modern web development.*
-
-```
-```
